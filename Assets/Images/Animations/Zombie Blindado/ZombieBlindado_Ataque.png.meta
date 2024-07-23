@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: c69952315443d734b827e8390a8b4e80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8081453377253700851
+    second: ZombieBlindado_Ataque_0
+  - first:
+      213: 8267825498232368668
+    second: ZombieBlindado_Ataque_1
+  - first:
+      213: 5152596668763543292
+    second: ZombieBlindado_Ataque_2
+  - first:
+      213: 1563425197860272983
+    second: ZombieBlindado_Ataque_3
+  - first:
+      213: 1546168583563948474
+    second: ZombieBlindado_Ataque_4
+  - first:
+      213: 902181272285230114
+    second: ZombieBlindado_Ataque_5
+  - first:
+      213: 5856398615847289785
+    second: ZombieBlindado_Ataque_6
+  - first:
+      213: -539362437132776223
+    second: ZombieBlindado_Ataque_7
+  - first:
+      213: -6837377422954740992
+    second: ZombieBlindado_Ataque_8
+  - first:
+      213: 2661432810801684693
+    second: ZombieBlindado_Ataque_9
+  - first:
+      213: 2413167788458432839
+    second: ZombieBlindado_Ataque_10
+  - first:
+      213: -4973026200292129786
+    second: ZombieBlindado_Ataque_11
+  - first:
+      213: 3589310315568109626
+    second: ZombieBlindado_Ataque_12
+  - first:
+      213: 1029615945125333256
+    second: ZombieBlindado_Ataque_13
+  - first:
+      213: 4373097611144917116
+    second: ZombieBlindado_Ataque_14
+  - first:
+      213: 3498379966114303884
+    second: ZombieBlindado_Ataque_15
+  - first:
+      213: -2261877076175422935
+    second: ZombieBlindado_Ataque_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZombieBlindado_Ataque_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 273
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932e2193313861a46be0ddf7f2bb9f30
+      internalID: 8081453377253700851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Ataque_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 273
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62868b942aa5ec46ba20828dccf084a
+      internalID: 8267825498232368668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Ataque_2
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 273
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e125ec4ec9bc5ca459fe357bc28cb4eb
+      internalID: 5152596668763543292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Ataque_3
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 273
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8298fc530ecca1f4eae09068636b014d
+      internalID: 1563425197860272983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Ataque_4
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 0
+        width: 273
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd5118c94317664aab3238003aa3bbc
+      internalID: 1546168583563948474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Ataque_5
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 0
+        width: 273
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898bd367b6ec97f448df24c631b11e5d
+      internalID: 902181272285230114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Ataque_6
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 0
+        width: 273
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1d301392c0bea488c206873476ace8
+      internalID: 5856398615847289785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Ataque_7
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 0
+        width: 273
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd1abd0dee31994d8773a66e4d165ec
+      internalID: -539362437132776223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Ataque_8
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 0
+        width: 273
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cd790e139b1624ca9cdbec6faf7ecb
+      internalID: -6837377422954740992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Ataque_9
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 0
+        width: 273
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a99ad36e6ef69419c2449956e46248
+      internalID: 2661432810801684693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Ataque_10
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 0
+        width: 273
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d00baf12e725744e8b1c3226b780134
+      internalID: 2413167788458432839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Ataque_11
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 0
+        width: 273
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4314ab29ce9f06c4b89213c958ef0bb3
+      internalID: -4973026200292129786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Ataque_12
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 0
+        width: 273
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a21003a9df470642883633f61be6bf9
+      internalID: 3589310315568109626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Ataque_13
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 0
+        width: 273
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268519892fdecc645a4829f872ed9461
+      internalID: 1029615945125333256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Ataque_14
+      rect:
+        serializedVersion: 2
+        x: 3822
+        y: 0
+        width: 273
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae40989c73429d2419ff2fde141f2427
+      internalID: 4373097611144917116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Ataque_15
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 0
+        width: 273
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b708789c77322714ea3d440ba70a7130
+      internalID: 3498379966114303884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Ataque_16
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 0
+        width: 273
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2777815d84c4164b9efb10d41823554
+      internalID: -2261877076175422935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

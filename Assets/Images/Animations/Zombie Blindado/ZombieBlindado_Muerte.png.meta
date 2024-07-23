@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: 71fb81bb10f75b54caa69d37d4782cf0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7588994509493483725
+    second: ZombieBlindado_Muerte_0
+  - first:
+      213: -9147250198486493518
+    second: ZombieBlindado_Muerte_1
+  - first:
+      213: 8240842679294274517
+    second: ZombieBlindado_Muerte_2
+  - first:
+      213: -97581174559602741
+    second: ZombieBlindado_Muerte_3
+  - first:
+      213: -3569724552879640282
+    second: ZombieBlindado_Muerte_4
+  - first:
+      213: -8909856474617923272
+    second: ZombieBlindado_Muerte_5
+  - first:
+      213: -1476598884209451561
+    second: ZombieBlindado_Muerte_6
+  - first:
+      213: 2373503500195392324
+    second: ZombieBlindado_Muerte_7
+  - first:
+      213: -8690426881647626591
+    second: ZombieBlindado_Muerte_8
+  - first:
+      213: -7973994360614817869
+    second: ZombieBlindado_Muerte_9
+  - first:
+      213: 3277311659385997313
+    second: ZombieBlindado_Muerte_10
+  - first:
+      213: 4170957276679899453
+    second: ZombieBlindado_Muerte_11
+  - first:
+      213: 4379320601945544608
+    second: ZombieBlindado_Muerte_12
+  - first:
+      213: -582519220468130849
+    second: ZombieBlindado_Muerte_13
+  - first:
+      213: 7447118328965204724
+    second: ZombieBlindado_Muerte_14
+  - first:
+      213: -6177892819059212499
+    second: ZombieBlindado_Muerte_15
+  - first:
+      213: -646160605041402067
+    second: ZombieBlindado_Muerte_16
+  - first:
+      213: -9030202703340164622
+    second: ZombieBlindado_Muerte_17
+  - first:
+      213: 5129041686921942683
+    second: ZombieBlindado_Muerte_18
+  - first:
+      213: -7396038808466792176
+    second: ZombieBlindado_Muerte_19
+  - first:
+      213: 846302613553136196
+    second: ZombieBlindado_Muerte_20
+  - first:
+      213: -4499911622988790551
+    second: ZombieBlindado_Muerte_21
+  - first:
+      213: -7482493168011681045
+    second: ZombieBlindado_Muerte_22
+  - first:
+      213: 2819469970352801240
+    second: ZombieBlindado_Muerte_23
+  - first:
+      213: -3211161322826186058
+    second: ZombieBlindado_Muerte_24
+  - first:
+      213: 397642346156482880
+    second: ZombieBlindado_Muerte_25
+  - first:
+      213: -7406857099337608146
+    second: ZombieBlindado_Muerte_26
+  - first:
+      213: -7017005293223623971
+    second: ZombieBlindado_Muerte_27
+  - first:
+      213: -3762739375037523523
+    second: ZombieBlindado_Muerte_28
+  - first:
+      213: -4091364031953596240
+    second: ZombieBlindado_Muerte_29
+  - first:
+      213: 7726881501427787254
+    second: ZombieBlindado_Muerte_30
+  - first:
+      213: 1931839176150758561
+    second: ZombieBlindado_Muerte_31
+  - first:
+      213: 8705480117636149043
+    second: ZombieBlindado_Muerte_32
+  - first:
+      213: -4077186971171542705
+    second: ZombieBlindado_Muerte_33
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 338
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4aaf304a949a014e9993217797ac12c
+      internalID: -7588994509493483725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 338
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4fac465cdc5364f909195362dafd07
+      internalID: -9147250198486493518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_2
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 0
+        width: 338
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69ca4ab630caf9459e87c549d18a290
+      internalID: 8240842679294274517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_3
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 0
+        width: 338
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35af9f14c1b07845a9098d3834fb8db
+      internalID: -97581174559602741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_4
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 0
+        width: 338
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6e1bd2639cb7941b1b0561e5bc015a
+      internalID: -3569724552879640282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_5
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 0
+        width: 338
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6b0fa1df462ef45aff6ee46d83ad11
+      internalID: -8909856474617923272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_6
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 0
+        width: 338
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933ed10ce2caeb746b46cd6b2c292ca2
+      internalID: -1476598884209451561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_7
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 0
+        width: 338
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e092a75d9fd98642b876c02b8c77f60
+      internalID: 2373503500195392324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_8
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 0
+        width: 338
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e328feec147053468f9213718f5cf79
+      internalID: -8690426881647626591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_9
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 0
+        width: 338
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a923ae196981c4fbe84aed50cf783f
+      internalID: -7973994360614817869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_10
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 0
+        width: 338
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a729b43f712417b4b8576d663780c953
+      internalID: 3277311659385997313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_11
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 0
+        width: 338
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a90c58da35df645a59da021d05d98d
+      internalID: 4170957276679899453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_12
+      rect:
+        serializedVersion: 2
+        x: 4056
+        y: 0
+        width: 338
+        height: 318
+      alignment: 9
+      pivot: {x: 0.33951727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6a26043249566439e678f9ba8eff18
+      internalID: 4379320601945544608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_13
+      rect:
+        serializedVersion: 2
+        x: 4394
+        y: 0
+        width: 338
+        height: 318
+      alignment: 9
+      pivot: {x: 0.33951727, y: 0.50396687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728d9bd266e14a04aab7418181842630
+      internalID: -582519220468130849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_14
+      rect:
+        serializedVersion: 2
+        x: 4732
+        y: 0
+        width: 338
+        height: 318
+      alignment: 9
+      pivot: {x: 0.34470633, y: 0.5053245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08de52cded75ae45906cfb18156c524
+      internalID: 7447118328965204724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_15
+      rect:
+        serializedVersion: 2
+        x: 5070
+        y: 0
+        width: 338
+        height: 318
+      alignment: 9
+      pivot: {x: 0.333668, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4841c8b5d6b07d844adf2dee26b431b8
+      internalID: -6177892819059212499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_16
+      rect:
+        serializedVersion: 2
+        x: 5408
+        y: 0
+        width: 338
+        height: 318
+      alignment: 9
+      pivot: {x: 0.3414054, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c84ae41bf88524ba0ca0e3fa83d30b
+      internalID: -646160605041402067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_17
+      rect:
+        serializedVersion: 2
+        x: 5746
+        y: 0
+        width: 338
+        height: 318
+      alignment: 9
+      pivot: {x: 0.33753526, y: 0.5041116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11f81338ed2f554f825331e0034493d
+      internalID: -9030202703340164622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_18
+      rect:
+        serializedVersion: 2
+        x: 6084
+        y: 0
+        width: 338
+        height: 318
+      alignment: 9
+      pivot: {x: 0.34140393, y: 0.5041116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f3806624dc28743800beb549b1bef0
+      internalID: 5129041686921942683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_19
+      rect:
+        serializedVersion: 2
+        x: 6422
+        y: 0
+        width: 338
+        height: 318
+      alignment: 9
+      pivot: {x: 0.36461318, y: 0.5082231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596c97b6b6c510f41912b7708e06421b
+      internalID: -7396038808466792176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_20
+      rect:
+        serializedVersion: 2
+        x: 6760
+        y: 0
+        width: 338
+        height: 318
+      alignment: 9
+      pivot: {x: 0.38782245, y: 0.5082231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c5bd33df7f7a44baa7da7eabd273b0
+      internalID: 846302613553136196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_21
+      rect:
+        serializedVersion: 2
+        x: 7098
+        y: 0
+        width: 338
+        height: 318
+      alignment: 9
+      pivot: {x: 0.39169112, y: 0.5370037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614c26aae6a4d9441b4ea75abb754b41
+      internalID: -4499911622988790551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_22
+      rect:
+        serializedVersion: 2
+        x: 7435
+        y: 0
+        width: 338
+        height: 318
+      alignment: 9
+      pivot: {x: 0.4149004, y: 0.5493382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ef31e523ffa9a43b7ace5a45f98628
+      internalID: -7482493168011681045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_23
+      rect:
+        serializedVersion: 2
+        x: 7774
+        y: 0
+        width: 338
+        height: 318
+      alignment: 9
+      pivot: {x: 0.4149004, y: 0.5575612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623bdc9f11e5c014e812e47e89e2ed43
+      internalID: 2819469970352801240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_24
+      rect:
+        serializedVersion: 2
+        x: 8112
+        y: 0
+        width: 338
+        height: 318
+      alignment: 9
+      pivot: {x: 0.42263776, y: 0.52055764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d36f3e3aac3c97468b871d4e1e291ef
+      internalID: -3211161322826186058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_25
+      rect:
+        serializedVersion: 2
+        x: 8450
+        y: 0
+        width: 338
+        height: 318
+      alignment: 9
+      pivot: {x: 0.4419783, y: 0.49588856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b32d3f2713ec749aa4c2386ba4e6a0
+      internalID: 397642346156482880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_26
+      rect:
+        serializedVersion: 2
+        x: 8788
+        y: 0
+        width: 338
+        height: 318
+      alignment: 9
+      pivot: {x: 0.42263776, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d3426ed78a5424a9c289f01540caf6
+      internalID: -7406857099337608146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_27
+      rect:
+        serializedVersion: 2
+        x: 9126
+        y: 0
+        width: 338
+        height: 318
+      alignment: 9
+      pivot: {x: 0.43424094, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bfd6a272915e94db4af575ce3b9d4f
+      internalID: -7017005293223623971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_28
+      rect:
+        serializedVersion: 2
+        x: 9464
+        y: 0
+        width: 338
+        height: 318
+      alignment: 9
+      pivot: {x: 0.43810964, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7933d566c0cddb04299b80e4f14a5f8e
+      internalID: -3762739375037523523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_29
+      rect:
+        serializedVersion: 2
+        x: 9802
+        y: 0
+        width: 338
+        height: 318
+      alignment: 9
+      pivot: {x: 0.42650646, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd8207ffe94495498df0e8e5a042812
+      internalID: -4091364031953596240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_30
+      rect:
+        serializedVersion: 2
+        x: 10140
+        y: 0
+        width: 338
+        height: 318
+      alignment: 9
+      pivot: {x: 0.42263776, y: 0.49177706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53fea2c1bc750a48af4d7d1a0a55938
+      internalID: 7726881501427787254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_31
+      rect:
+        serializedVersion: 2
+        x: 10478
+        y: 0
+        width: 338
+        height: 318
+      alignment: 9
+      pivot: {x: 0.4419783, y: 0.49177706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2aeaad3733de00489b4d1f6cb4c6802
+      internalID: 1931839176150758561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_32
+      rect:
+        serializedVersion: 2
+        x: 10816
+        y: 0
+        width: 338
+        height: 318
+      alignment: 9
+      pivot: {x: 0.43810964, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81cc9beab3af2145b7bb9c0c05e1070
+      internalID: 8705480117636149043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieBlindado_Muerte_33
+      rect:
+        serializedVersion: 2
+        x: 11154
+        y: 0
+        width: 338
+        height: 318
+      alignment: 9
+      pivot: {x: 0.5077374, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c318c51e7879141a23d628e55a3ed3
+      internalID: -4077186971171542705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
